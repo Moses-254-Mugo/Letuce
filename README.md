@@ -10,9 +10,11 @@
 Simple landing page of Letuce Eat
 
 ## Screenshot
-![Getting Startted]()
-![Getting Startted]()
-![Getting Startted]()
+![Getting Startted](assets/Images/Screenshots/home.png)
+
+![Getting Startted](assets/Images/Screenshots/menu.png)
+
+![Getting Startted](assets/Images/Screenshots/footer.png)
 
 
 ## Techonologies Used
