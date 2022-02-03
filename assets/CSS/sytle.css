@@ -154,6 +154,48 @@ body{
 } 
 
 /* *************************************************** */
+/* menu styling */
+#menu{
+    margin-top: 3rem;
+    background-color: lavender;
+    padding: 20px;
+}
+.menu-content{
+    text-align: center;
+    padding: 30px;
+    margin: 20px auto;
+}
+.menu-content .menu-h2{
+    color: #f6bd07;
+    font-weight: bold;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap ;
+}
+#menu-card{
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+}
+.link-btn{
+    background-color: lavender;
+    padding: 8px 19px;
+    color: #000;
+}
+.link-btn:hover{
+    text-decoration: none;
+    color: #000;
+    letter-spacing: 3px;
+    box-shadow:  0 0 5px rgb(0 0 0 /0.2);
+    border: none;
+}
+
+/* *************************************************** */
+/* navbar styling */
+
+/* *************************************************** */
 /* navbar styling */
 
 
