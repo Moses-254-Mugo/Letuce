@@ -179,12 +179,13 @@ body{
     margin: 20px;
     background-color: #fff;
 }
-.link-btn{
+.menu-btn{
     background-color: lavender;
     padding: 8px 19px;
     color: #000;
+    border: none;
 }
-.link-btn:hover{
+.menu-btn:hover{
     text-decoration: none;
     color: #000;
     letter-spacing: 3px;
