@@ -194,6 +194,28 @@ body{
 
 /* *************************************************** */
 /* navbar styling */
+#booking{
+    padding: 70px;
+    text-align: center;
+    background: url(../Images/image8.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+.booking-btn{
+    border: 1px solid #fff;
+    padding: 8px 30px;
+    color: #fff;
+    /* margin: 3rem; */
+}
+.booking-btn:hover{
+    text-decoration: none;
+    color: #fff;
+    box-shadow: 0 0 2px #000;
+}
+.col, h5, h2, a{
+    margin: 3rem;
+}
 
 /* *************************************************** */
 /* navbar styling */
