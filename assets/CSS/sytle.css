@@ -121,8 +121,37 @@ body{
 }
 
 /* *************************************************** */
-/* navbar styling */
+/* review styling */
+#review{
+    margin-top: 3rem;
+    padding: 20px;
+}
+.left-col{
+    background: url(../Images/image1.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 120px;
+    
+}
+.right-col {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 120px;
+}
 
+.underline{
+    width: 100px;
+    height: 3px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+.review-content h1,h5, h6{
+    font-weight: 700;
+}
+.review-content h5{
+    margin: 2rem ;
+} 
 
 /* *************************************************** */
 /* navbar styling */
