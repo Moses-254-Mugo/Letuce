@@ -5,6 +5,7 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
+    background: lavender;
 }
 
 /* *************************************************** */
@@ -156,14 +157,13 @@ body{
 /* *************************************************** */
 /* menu styling */
 #menu{
-    margin-top: 3rem;
     background-color: lavender;
     padding: 20px;
 }
 .menu-content{
     text-align: center;
     padding: 30px;
-    margin: 20px auto;
+    margin: 15px auto;
 }
 .menu-content .menu-h2{
     color: #f6bd07;
