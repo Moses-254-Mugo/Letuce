@@ -218,8 +218,13 @@ body{
 }
 
 /* *************************************************** */
-/* navbar styling */
-
+/* footer styling */
+footer{
+    background-color: #000;
+    text-align: center;
+    color: #bbb;
+    padding: 20px;
+}
 
 
 
