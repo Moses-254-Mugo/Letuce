@@ -13,7 +13,7 @@ body{
     display: flex;
     justify-content:space-between;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.5);
+    /* background-color: rgba(0, 0, 0, 0.5); */
     width: 100%;
     margin-top: -8em;
 }
@@ -62,13 +62,63 @@ body{
 }
 
 /* *************************************************** */
-/* navbar styling */
+/* home styling */
+#home{
+    background: url(../Images/image2.png) no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 120px;
+}
+.home-textCenter{
+    color: #fff;
+    font-weight: 700;
+    padding: 20px;
+}
 
+.home-btn{
+    margin-top:20px;
+    border: none;
+    outline: none;
+    background-color: #f6bd07;
+    padding: 5px 20px;
+    color: #fff;
+}
 
 
 /* *************************************************** */
-/* navbar styling */
-
+/* service styling */
+#service{
+    margin: 10px 0;
+    text-align: center;
+    background-color: lavender;
+}
+.content{
+    text-align: center;
+    padding: 20px;
+}
+.service-h1{
+    color: orange;
+    text-align: center;
+    font-weight: 700;
+}
+.card{
+    padding: 30px;
+    text-align: center;
+    margin: 4px auto;
+    font-weight: 700;
+}
+.card .one{
+    background-color:#f6bd07;
+    margin: 1rem auto;
+    text-align: center;
+    border-radius: 50%;
+    color: #fff;
+    width: 60px;
+    height: 60px;
+}
+.card .one .one-top{
+    margin-top: 15px;
+}
 
 /* *************************************************** */
 /* navbar styling */
