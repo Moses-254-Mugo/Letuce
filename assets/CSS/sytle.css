@@ -184,6 +184,7 @@ body{
     padding: 8px 19px;
     color: #000;
     border: none;
+    outline: none;
 }
 .menu-btn:hover{
     text-decoration: none;
